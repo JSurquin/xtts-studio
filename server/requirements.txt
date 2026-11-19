@@ -1,0 +1,7 @@
+coqui-tts[codec]
+six
+fastapi
+uvicorn
+python-multipart
+mlx-whisper
+msgpack
